@@ -1,6 +1,6 @@
 # Hi, I'm Amir 👋
 
-### Frontend Web Developer | MNS Tech Solutions
+### Full Stack Developer | MNS Tech Solutions
 
 I build responsive, user-friendly websites with a focus on clean layouts and practical user experiences.
 
